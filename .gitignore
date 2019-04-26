@@ -1,8 +1,4 @@
 *.Rmd
-*.R
-*.tex
-PS*
+problem_sets/*
 pics*
-*.aux
-*.png
-*.docx
+lab*
