@@ -1,0 +1,8 @@
+*.Rmd
+*.R
+*.tex
+PS*
+pics*
+*.aux
+*.png
+*.docx
